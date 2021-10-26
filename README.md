@@ -15,9 +15,9 @@ Danny has provided you with a sample of his overall customer data due to privacy
 
 Danny has shared with you 3 key datasets for this case study:
 
-> sales
-> menu
-> members
+- > sales
+- > menu
+- > members
 
 ![image](https://user-images.githubusercontent.com/67474818/138944470-32031cf0-4ac0-48fc-b255-bc06c40c3536.png)
 
